@@ -1,0 +1,25 @@
+head{
+background-color: blue;
+}
+body
+{
+    text-align: center;
+    background-color: crimson;
+}
+div{
+  background-color: orange;
+}
+img{
+  width: 200px;
+  height: 150px;
+}
+
+.Goed
+{
+    background-color: chartreuse;
+}
+
+.Fout
+{
+    background-color: red;
+}
